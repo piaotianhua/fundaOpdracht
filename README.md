@@ -1,5 +1,5 @@
-De opdracht van funda.nl.
-========================
+Funda opdracht
+======
 
 http://www.funda.nl/content/default.aspx?pagina=/nl/info/opdracht/
 
